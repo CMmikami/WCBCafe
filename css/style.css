@@ -53,3 +53,14 @@ img {
 .main-nav a:hover {
     color: #0bd;
 }
+
+/* HOME */
+.home-content {
+    text-align: center;
+    margin: 10%;
+}
+
+.home-content p {
+    font-size: 1.125rem;
+    margin: 10px 0 42px;
+}
