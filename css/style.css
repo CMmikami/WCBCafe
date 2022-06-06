@@ -265,7 +265,7 @@ text-area {
 }
 input[type="submit"] {
     border: none;
-    curser: pointer;
+    cursor: pointer;
     line-height: 1;
 }
 
